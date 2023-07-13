@@ -16,8 +16,8 @@ To use this application, you need a web browser that supports HTML5 and JavaScri
 
 #### FILES
 The project consists of the following files:
-**WebPageForDPS.html**: The main HTML file that contains the structure and content of the web page.
-**logic.js**: The JavaScript file that contains the logic for fetching and displaying the GitHub repositories.
+- **WebPageForDPS.html**: The main HTML file that contains the structure and content of the web page.
+- **logic.js**: The JavaScript file that contains the logic for fetching and displaying the GitHub repositories.
 
 ##### DEVELOPMENT
 If you wish to make changes to the application or further enhance its functionality, you can follow these steps:
