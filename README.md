@@ -4,12 +4,11 @@ This project utilizes the GitHub API to fetch repository data. The GitHub API pr
 
 ## HOW TO USE
 1. Open the WebPageForDPS.html file in a web browser.
-2. On the webpage, you will see a heading prompting you to enter a GitHub username.
-3. Enter the desired GitHub username into the input field provided.
+2. On the webpage, you will see a heading tells you to enter a GitHub username.
+3. Enter the desired GitHub username into the input field.
 4. Click the "Fetch Repositories" button.
 5. The application will retrieve the repository data for the entered username from the GitHub API.
-6. The retrieved repositories will be displayed as a list on the webpage, showing the repository names as clickable links.
-7. Click on a repository name to navigate to the respective repository on GitHub.
+6. The retrieved repositories will be displayed as a list on the webpage, showing the repository names.
 
 ### REQUIREMENTS 
 To use this application, you need a web browser that supports HTML5 and JavaScript.
