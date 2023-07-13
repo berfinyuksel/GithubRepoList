@@ -22,8 +22,8 @@ The project consists of the following files:
 ##### DEVELOPMENT
 If you wish to make changes to the application or further enhance its functionality, you can follow these steps:
 
-Clone the GitHub repository to your local machine.
-Open the project directory in a text editor or integrated development environment (IDE).
-Make the necessary modifications to the HTML or JavaScript files.
-Save your changes.
-Open the modified WebPageForDPS.html file in a web browser to see the updated application.
+1. Clone the GitHub repository to your local machine.
+2. Open the project directory in a text editor or IDE.
+3. Make the necessary modifications to the HTML or JavaScript files.
+4. Save your changes.
+5. Open the modified WebPageForDPS.html file in a web browser to see the updated application.
